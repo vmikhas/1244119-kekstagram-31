@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Михаил Волощенко](https://up.htmlacademy.ru/javascript/31/user/1244119).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Гущина](https://htmlacademy.ru/profile/vanastasiya).
 
 ---
 
