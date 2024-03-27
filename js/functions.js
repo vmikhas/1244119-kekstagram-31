@@ -33,4 +33,6 @@ checkPalindrome('Кекс'); // false
 // Это палиндром
 checkPalindrome('Лёша на полке клопа нашёл '); // true
 
+checkPalindrome('Тут как тут ');
+
 // Дополнительное задание
