@@ -106,3 +106,5 @@ const createPost = () => ({
 });
 
 const generateCardPost = Array.from({ length: CARD_IMAGES }, createPost);
+
+generateCardPost();
