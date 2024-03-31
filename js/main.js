@@ -80,7 +80,7 @@ const getRandomArrayElement = (elements) => elements[getRandomNumber(0, elements
 const createMessages = () => {
   const message = [];
 
-  for (let i = 0; i < getRandomNumber(COMMENT_MESSAGE, COMMENT_MESSAGE_MAX); i++) {
+  for (let i = 0; i < getRandomNumber(1, COMMENT_MESSAGE_MAX); i++) {
     message.push({
       message: getRandomArrayElement(COMMENT_MESSAGE),
     });
